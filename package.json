@@ -19,7 +19,7 @@
     "discord.js": "^14.13.0",
     "globby": "^13.2.2",
     "pretty-ms": "^8.0.0",
-    "undici": "^5.27.0"
+    "undici": "^6.29.1"
   },
   "devDependencies": {
     "@casperiv/eslint-config": "^8.0.0",
